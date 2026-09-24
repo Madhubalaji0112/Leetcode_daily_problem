@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0069-sqrtx) |
+| [0507-perfect-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0507-perfect-number) |
 ## Newton's Method
 |  |
 | ------- |
