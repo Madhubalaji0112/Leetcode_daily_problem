@@ -10,6 +10,6 @@ class Solution {
             sum -= nums[i-k];
             maxsum = Math.max(sum,maxsum);
         }
-        return maxsum/(double)k;
+        return maxsum/k;
     }
 }
