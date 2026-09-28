@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0069-sqrtx) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
