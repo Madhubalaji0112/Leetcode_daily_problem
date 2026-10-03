@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0977-squares-of-a-sorted-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0704-binary-search) |
 ## Quicksort
 |  |
 | ------- |
