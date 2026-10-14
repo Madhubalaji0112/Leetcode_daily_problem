@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0035-search-insert-position) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0217-contains-duplicate) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
