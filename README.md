@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1920-build-array-from-permutation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0507-perfect-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Newton's Method
 |  |
 | ------- |
