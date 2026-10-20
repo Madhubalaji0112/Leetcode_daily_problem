@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
