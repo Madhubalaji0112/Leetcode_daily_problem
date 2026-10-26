@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
