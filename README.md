@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0643-maximum-average-subarray-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0977-squares-of-a-sorted-array) |
