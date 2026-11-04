@@ -4,11 +4,9 @@ class Solution {
         int max = 0;
         for(int i=0;i<nums.length;i++){
             max= Math.max(max,nums[i]);
+            sum += nums[i];
         }
-        for(int i=0;i<nums.length;i++){
-            int add = max-nums[i];
-            sum += add;
-        }
-        return sum;
+        
+        return max*nums.length - sum;
     }
 }
