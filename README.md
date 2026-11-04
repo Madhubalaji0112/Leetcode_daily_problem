@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0704-binary-search) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0977-squares-of-a-sorted-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
