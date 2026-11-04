@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0704-binary-search) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
