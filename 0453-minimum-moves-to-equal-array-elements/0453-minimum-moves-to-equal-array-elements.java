@@ -1,11 +1,28 @@
+// class Solution {
+//     public int minMoves(int[] nums) {
+//         int sum = 0;
+//         int min = Integer.MAX_VALUE;
+//         for(int i=0;i<nums.length;i++){
+//             min = Math.min(min,nums[i]);
+//             sum += nums[i];
+//         }
+//         return sum - min*nums.length;
+//     }
+// }
 class Solution {
     public int minMoves(int[] nums) {
-        int sum = 0;
-        int min = Integer.MAX_VALUE;
+        int temp=Integer.MAX_VALUE;
         for(int i=0;i<nums.length;i++){
-            min = Math.min(min,nums[i]);
-            sum += nums[i];
+            if(nums[i]<temp){
+                temp = nums[i];
+            }
         }
-        return sum - min*nums.length;
+        int ans =0;
+        for(int i =0; i<nums.length; i++){
+            ans +=Math.abs(temp-nums[i]);
+
+        }
+        return ans;
+        
     }
 }
