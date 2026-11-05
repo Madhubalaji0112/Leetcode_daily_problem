@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2235-add-two-integers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Newton's Method
 |  |
