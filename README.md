@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1480-running-sum-of-1d-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Database
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1051-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
