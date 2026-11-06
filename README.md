@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1991-find-the-middle-index-in-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
