@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2413-smallest-even-multiple) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Newton's Method
 |  |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1512-number-of-good-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
