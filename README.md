@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0771-jewels-and-stones) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0771-jewels-and-stones) |
 | [1773-count-items-matching-a-rule](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
