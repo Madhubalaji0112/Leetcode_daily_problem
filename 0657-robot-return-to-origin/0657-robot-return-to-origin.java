@@ -13,9 +13,7 @@ class Solution {
             }
 
         }
-        if(m == 0 && n == 0){
-            return true;
-        }
-        return false;
+        
+        return m == 0 && n == 0;
     }
 }
