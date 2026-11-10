@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1773-count-items-matching-a-rule) |
 | [1844-replace-all-digits-with-characters](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1844-replace-all-digits-with-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2011-final-value-of-variable-after-performing-operations) |
