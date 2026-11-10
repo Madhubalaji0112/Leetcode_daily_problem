@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0507-perfect-number) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Pigeonhole Principle
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2413-smallest-even-multiple) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
