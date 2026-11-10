@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0507-perfect-number) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1929-concatenation-of-array) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
