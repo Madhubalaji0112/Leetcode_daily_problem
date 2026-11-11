@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0507-perfect-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1929-concatenation-of-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0709-to-lower-case) |
