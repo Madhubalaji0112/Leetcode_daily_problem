@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0771-jewels-and-stones) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0657-robot-return-to-origin) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1512-number-of-good-pairs) |
 ## Number Theory
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1021-remove-outermost-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
