@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/3668-restore-finishing-order) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/2413-smallest-even-multiple) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Madhubalaji0112/Leetcode_daily_problem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Newton's Method
 |  |
