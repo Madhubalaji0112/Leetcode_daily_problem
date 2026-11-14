@@ -5,8 +5,7 @@ class Solution {
             int sum=0;
             int n = nums[i];
             while(n>0){
-                int dig = n%10;
-                sum += dig;
+                sum += n%10;
                 n /= 10;
             }
             nums[i] = sum;
